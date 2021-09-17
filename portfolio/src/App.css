@@ -1,0 +1,146 @@
+body{
+   /* background: linear-gradient(158.86deg, #15171a 10.36%, #0f2635 49.58%, #111A20 49.58%);  */
+
+/* background-color: #040c11;
+background: #E5E5E5; */
+background: linear-gradient(158.86deg, #1C2A34 10.36%, #111A20 49.58%, #111A20 49.58%);
+}
+.navHeader{
+display:flex;
+justify-content: left;
+align-items: center;
+position: relative;
+z-index: 1;
+list-style: none;  
+color:white; 
+/* margin-left: 10%; */
+
+}
+li{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+  color: blue;
+}
+a:hover{
+  text-decoration: none;
+  color: red; 
+}
+a:active{
+  text-decoration: none;
+  color: pink;
+}
+.navHeader-links{
+  
+    text-align: right;
+    margin-left: 4%;
+    text-size-adjust: 200px;
+    color:white ;
+    
+ 
+}
+.navHeader-links2{
+  margin-left: 72%;
+  color:white ;
+  border-radius: 0pxlinear-gradient(158.86deg, #1C2A34 10.36%, #111A20 49.58%, #111A20 49.58%);
+ 
+}
+.logo{
+  margin-left: 25;
+  color:white ;
+}
+.navDesign{
+   background: #040c11;
+   
+  
+}
+button{
+  width: 100px;
+  height: 20px;
+  text-align: center;
+}
+.p1{
+font-size: 25px;
+color: rgb(66, 247, 66);
+/* margin-left: px; */
+width: 800px;
+}
+.pmore{
+  font-size: 25px;
+  color:white ;
+  
+}
+
+.HomeDiv{
+  /* background-color: #040c11; */
+  margin-bottom: 0px;
+}
+
+
+.articleType{
+  
+  color:white;
+  margin-top: 0rem;
+  margin-bottom:0rem;
+}
+
+.photo{
+  height: 20px;
+  width: 20px;
+  font-size: 80px;
+}
+.article1{
+ /* margin-left: 3%; */
+ font-family: Jost;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 0px;
+}
+p{
+  font-size: 135%;
+}
+
+
+
+.header{
+  display: flex;
+
+/* top:80% */
+
+}
+.header1{
+  flex: 1;
+    
+}
+/* .king{
+  height: 70%;
+  width:100%
+   */
+/* ?} */
+.p{
+  
+  text-align: left;
+  margin-left: 72%;
+  text-size-adjust: 2px;
+  color:white ;
+  
+}
+
+.navHeader1{
+  display:flex;
+  justify-content: left;
+  align-items: center;
+  position: relative;
+  z-index: 1;
+  list-style: none;  
+  color:white; 
+  margin-right:20%
+  
+  }
+  .navDesign{
+    padding-bottom: 20%;
+    padding-left: 20%;
+    padding-right: 20%;
+  }

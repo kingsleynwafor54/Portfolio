@@ -1,0 +1,5 @@
+export const HOME = '/'
+export const ARTICLES = '/article'
+export const ABOUT = '/about'
+export const SNIPPETS = '/snippet'
+export const CONTACT = '/contact'

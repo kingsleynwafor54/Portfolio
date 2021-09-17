@@ -1,0 +1,79 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+.hova:hover{
+color:blue;
+}
+
+.divButton{
+  margin-top: 100px;
+}
+.parent1{
+  background: #1C2C35;
+  margin-top:100px;
+  color: white;
+
+}
+
+.parent2{
+  top:30%;
+  display: flex;
+  color: white;
+}
+.child{
+  flex:2;
+  flex-direction: row;
+  border-radius: 10%#D9534D;;
+  
+}
+.articleType{
+  color: white;
+  background: linear-gradient(158.86deg, #1C2A34 10.36%, #111A20 49.58%, #111A20 49.58%);
+  margin-top: 25rem;
+  margin-bottom:5rem;
+}
+
+.navBar{
+  /* margin-left: 10%; */
+  /* margin-right: 20%; */
+}
+.HomeDiv{
+  padding-left: 5%;
+  padding-right:5% ;
+}
+.parent{
+top: 30%;
+bottom: 20%;
+}
+
+h2{
+  color:white;
+}
+
+.parent{
+  color:white;
+}
+.k{
+  margin-right: 1%;
+}
+
+/* .parent1{
+  top:20%;
+  display: flex;
+  color: white;
+} */
+
+button{
+  height:30%
+}
